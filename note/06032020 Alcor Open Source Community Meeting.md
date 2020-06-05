@@ -1,6 +1,8 @@
 ## 06/03/2020 Alcor Open Source Community Meeting
  
 ### Status Update
+
+Meeting Recording - https://youtu.be/ljC62ge7rSE
  
 1. Pod Manager - PR Submitted
 1. Security Group - Will review PR
