@@ -29,9 +29,9 @@
     * Step 6:
         * feasible algorithm for gating is to obtain the assigned bucket number according to the corresponding integer of each address to 64. The advantage of this algorithm is that when the address pool changes, the assigned address recorded in each bucket does not need to change
  
- * Action Item:
-    * Look into hash algorithm as an alternative solution
-    *  EIP and VM applications are closely related. Discuss how to apply for an IP address to the entire Alcor extranet. Need a relatively new solution
+   * Action Item:
+      * Look into hash algorithm as an alternative solution
+      *  EIP and VM applications are closely related. Discuss how to apply for an IP address to the entire Alcor extranet. Need a relatively new solution
  
 * Piaoping: Network ACL FWAAS
   * Industry Analysis
