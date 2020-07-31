@@ -1,4 +1,4 @@
-# Alcor Open Source Community Meeting 7/29/2020#
+# Alcor Open Source Community Meeting 7/29/2020 #
 
 Meeting Recording: https://youtu.be/Id5nwcvEyzE
 
