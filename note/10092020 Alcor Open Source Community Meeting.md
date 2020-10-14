@@ -1,4 +1,4 @@
-# Alcor Open Source Community Meeting 10/07/2020
+# Alcor Open Source Community Meeting 10/09/2020
 
 1. Scalability test framework update
     * Burst performance is not stable. Made the fix and will do more testing before sending PRs. 
