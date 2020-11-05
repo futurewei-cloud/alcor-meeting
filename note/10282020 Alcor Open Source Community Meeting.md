@@ -29,7 +29,7 @@
     *  https://github.com/futurewei-cloud/alcor/pull/390
 https://github.com/futurewei-cloud/alcor-control-agent/pull/156 draft PR to address some comments
 
-6. 5.  ARP responder for L2/L3 neighbors: 
+6. ARP responder for L2/L3 neighbors: 
     * Feature request: https://github.com/futurewei-cloud/alcor-control-agent/issues/117
 
 
