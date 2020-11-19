@@ -7,7 +7,7 @@
         * Answer: Gateway inject/change Compute node flow through existing networking control path
             * Alcor controller -> ACA on compute node -> OVS, or
             * Neutron controller -> Neutron OVS agent on compute node -> OVS
-    * USTC ask development languageAnswer: Compute side mostly script, python is fine, may have some C, depends on scoping result
+    * USTC ask development language - Answer: Compute side mostly script, python is fine, may have some C, depends on scoping result
     * Futurewei: Explained inband flow table update mechanism when instance down, reference sent to slack channel
     * Futurewei: Continue working on consolidated system design
 * Action Items:
