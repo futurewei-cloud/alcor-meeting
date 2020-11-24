@@ -32,8 +32,8 @@
 2. https://github.com/futurewei-cloud/alcor/issues/425 
 3. https://github.com/futurewei-cloud/alcor/issues/283
 4. Data Plane - Use cases to be added: 
-        * Divide neighbor messages into multiple dpm
-        * Create 1000, 10,000 ports at the same time to get throughut, latency data and compare the data with normal path. 
+    * Divide neighbor messages into multiple dpm
+    * Create 1000, 10,000 ports at the same time to get throughut, latency data and compare the data with normal path. 
 5. Pulsar Testing - 3 nodes and 6 nodes data
 
 ## Design Discussion
