@@ -19,9 +19,9 @@
     * Topic 1: SDN southbound scalability
         * May 2020 -April 2021: MQ-based scaling path
         * May 2021 - TBD: SDN performance framework (control and data plane)
-    Topic 2 : Theoretical Research
+    * Topic 2 : Theoretical Research
         * VPC slicing assignment: MINLP, MQ-based
         * ML algorithm for on-demand programming
-    Topic 3: Alcor SDN verification engine
+    * Topic 3: Alcor SDN verification engine
         * Enable state verification, closed loop control and zero-touch operation 
         * Analysis for static verification or Synthesis for runtime verification (flow id, vni id, latency analysis, potential bottleneck diagnosis)
