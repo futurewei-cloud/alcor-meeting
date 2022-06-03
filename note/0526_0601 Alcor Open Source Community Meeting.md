@@ -1,4 +1,4 @@
-# Alcor Open Source Community Meeting - Ad Hoc 05/27/2022, 06/01/2022
+# Alcor Open Source Community Meeting - Ad Hoc 05/26/2022, 06/01/2022
 
 
     MIT License
@@ -15,7 +15,7 @@
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### 5/27/2022 Meeting Notes
+### 5/26/2022 Meeting Notes
 * Zhen shared the Merak project overview, including cloud simulators, cloud emulator, and network emulators
 * James shared the Merak project demo
 * Zhangsen shared related industry research and requirements on cloud simulator 
