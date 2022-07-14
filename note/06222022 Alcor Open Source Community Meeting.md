@@ -16,9 +16,9 @@
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-Meeting Notes
+### Meeting Notes
 
-### Distrinet Demo 
+Distrinet Demo 
 
 1. Min and Jiawei shared the distrinet demo
     * Feedback: need to improve on the data path. Current demo  environment did not go through the actual instance, it went from the admin 
