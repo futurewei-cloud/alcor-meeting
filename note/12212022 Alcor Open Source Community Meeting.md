@@ -1,4 +1,4 @@
-# Alcor Open Source Community Meeting 12/14/2022 
+# Alcor Open Source Community Meeting 12/21/2022 
 
 
     MIT License
